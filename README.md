@@ -1,4 +1,4 @@
-# Desafio Bot PyBr
+# Challenge Bot PyBr
 
 Developed in Python with BotCity Studio
 
