@@ -1,4 +1,4 @@
 # Desafio Bot PyBr
 
-Python package for a BotCity bot.
+Developed in Python with BotCity Studio
 
